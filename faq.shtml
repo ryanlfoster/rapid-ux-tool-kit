@@ -1,0 +1,110 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+				  			<li><a href="index.shtml"><i class="glyphicon glyphicon-home"></i></a></li>
+				  			<li>FAQ</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Frequently Asked Questions</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-9">
+					
+						<div class="faq-list">
+							<h3><a data-toggle="collapse" data-target="#faq1">Justo Venenatis Ullamcorper Cras Elit?</a></h3>
+							<div id="faq1" class="collapse in">
+							<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h3><a data-toggle="collapse" data-target="#faq2">Ipsum Sem Bibendum Malesuada Ridiculus?</a></h3>
+							<div id="faq2" class="collapse in">
+							<p>Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+							
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h3><a data-toggle="collapse" data-target="#faq3">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus?</a></h3>
+							<div id="faq3" class="collapse in">
+							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h4><a data-toggle="collapse" data-target="#faq4">Ipsum Sem Bibendum Malesuada Ridiculus?</a></h4>
+							<div id="faq4" class="collapse">
+							<p>Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h4><a data-toggle="collapse" data-target="#faq5">Justo Venenatis Ullamcorper Cras Elit?</a></h4>
+							<div id="faq5" class="collapse">
+							<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h4><a data-toggle="collapse" data-target="#faq6">Ipsum Sem Bibendum Malesuada Ridiculus?</a></h4>
+							<div id="faq6" class="collapse">
+							<p>Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+							
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h4><a data-toggle="collapse" data-target="#faq7">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus?</a></h4>
+							<div id="faq7" class="collapse">
+							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue.</p>
+							</div>
+						</div>
+						
+						<div class="faq-list">
+							<h4><a data-toggle="collapse" data-target="#faq8">Ipsum Sem Bibendum Malesuada Ridiculus?</a></h4>
+							<div id="faq8" class="collapse">
+							<p>Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.</p>
+							</div>
+						</div>
+						
+					</div><!--/col-->
+						
+					<div class="col-md-3">
+						<h4>Still have questions?</h4>
+						<p>Be sure to <a href="contact.shtml">Contact Us.</a></p>
+					</div>
+			  
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+		</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

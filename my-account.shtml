@@ -1,0 +1,198 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><span class="glyphicon glyphicon-home"></span></a></li>
+							<li>My Account</li>
+						</ul>
+						
+						<div class="alert alert-warning fade in">
+							<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+							<strong>Oh, snap!</strong> Your account is about to expire!
+						</div>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>My Account</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-6">
+				
+						<ul class="nav nav-pills">
+							<li class="active"><a href="#">Basic Information</a></li>
+							<li><a href="#password">Password</a></li>
+							<li><a href="#subscription-info">Subscription Information</a></li>
+						</ul>
+						
+						<!-- Basic Info form -->
+						<form class="form-horizontal">
+							<fieldset >
+								<legend>Basic Information <a class="btn-sm" href="edit-profile.shtml">Edit</a></legend>
+	
+								<!-- user-name input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Username</label>
+									<div class="col-md-8">
+										<p class="form-control-static">Newshound</p>
+									</div>
+								</div>
+								
+								<!-- upload input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Your Name</label>
+								  		<div class="col-md-8">
+								  			<img src="http://placehold.it/200x200" />
+								  		</div>
+								</div>
+								
+								<!-- full-name input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Your Name</label>
+									<div class="col-md-8">
+										<p class="form-control-static">J. Jonah Jameson</p>
+									</div>
+								</div>
+								
+								<!-- address-line1 input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Address 1</label>
+									<div class="col-md-8">
+										<p class="form-control-static">1234 Street Road</p>
+									</div>
+								</div>
+								
+								<!-- address-line2 input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Address 2</label>
+									<div class="col-md-8">
+										<p class="form-control-static">Apt 2</p>
+									</div>
+								</div>
+								
+								<!-- city input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">City / Town</label>
+									<div class="col-md-8">
+										<p class="form-control-static">New York City</p>
+									</div>
+								</div>
+								
+								<!-- region input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">State / Province / Region</label>
+									<div class="col-md-8">
+										<p class="form-control-static">NY</p>
+									</div>
+								</div>
+								
+								<!-- postal-code input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Zip / Postal Code</label>
+									<div class="col-md-8">
+										<p class="form-control-static">11001</p>
+									</div>
+								</div>
+								
+								<!-- country select -->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Country</label>
+									<div class="col-md-8">
+										<p class="form-control-static">United States</p>
+									</div>
+								</div>
+								 
+							</fieldset>
+						</form>
+						
+						<!-- Password form -->
+						<form id="password" class="form-horizontal">
+							<fieldset>
+								<legend>Your Password</legend>
+	
+								<!-- current password input-->
+								<div class="control-group">
+									<label for="" class="col-md-4 control-label">Password</label>
+									<div class="col-md-8">
+										<p class="form-control-static">************</p>
+										<p class="help-block"><a href="edit-password.shtml">Change Your Password?</a></p>
+									</div>
+								</div>					 
+							</fieldset>
+						</form>
+						
+						<!-- Subscription Info form -->
+						<form id="subscription-info" class="form-horizontal">
+							<fieldset>
+								<legend>Subscription Information <a class="btn-sm" href="edit-billing.shtml">Edit</a></legend>
+							 	
+							 	<p>You are suscribed as a Premium Member. <span class="pull-right"><a href="downgrade-account.shtml">Downgrade my account</a> | <a href="cancel-account.shtml">Cancel Account</a></span><br>
+							 		Your next billing cycle starts 3/15/13 <span class="pull-right"><a href="edit-billing.shtml">Edit billing info</a> | <a href="billing-history.shtml">View billing history</a></span></p>
+							 		
+								 
+							 	<!-- name on card input-->
+							 	<div class="form-group">
+									<label for="" class="col-md-4 control-label">Name on Card</label>
+									<div class="col-md-8">
+										<p class="form-control-static">J. Jonah Jameson</p>
+									</div>
+								</div>
+							 	<!-- cc number input-->
+							 	<div class="form-group">
+									<label for="" class="col-md-4 control-label">Credit Card Number</label>
+									<div class="col-md-8">
+										<p class="form-control-static">**** ***** ***** 1234</p>
+									</div>
+								</div>
+							 	<!-- Expiration date input-->
+							 	<div class="form-group">
+									<label for="" class="col-md-4 control-label">Expiration Date</label>
+									<div class="col-md-8">
+										<p class="form-control-static">11/14</p>
+									</div>
+								</div>
+								<!-- Expiration date input-->
+							 	<div class="form-group">
+									<label for="" class="col-md-4 control-label">CCV</label>
+									<div class="col-md-8">
+										<p class="form-control-static">****</p>
+									</div>
+								</div>
+								<!-- postal-code input-->
+								<div class="form-group">
+									<label for="" class="col-md-4 control-label">Billing Zip / Postal Code</label>
+									<div class="col-md-8">
+										<p class="form-control-static">11001</p>
+									</div>
+								</div>
+									
+							</fieldset>
+						</form>
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+		</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

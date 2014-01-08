@@ -1,0 +1,140 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><i class="fa fa-home"></i></a></li>
+							<li><a href="shop.shtml">Shop</a></li>
+							<li>My Cart</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>My Cart</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<table class="table table-hover table-responsive">
+							<thead>
+								<tr>
+									<th class="hidden-xs">Image</th>
+									<th>Product Description</th>
+									<th>Qty</th>
+									<th>Unit Price</th>
+									<th>Total</th>      
+									<th></th>            
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td class="hidden-xs"><img src="http://placehold.it/50x50" /></td>
+									<td><p><strong><a href="shop-product.shtml">Condimentum Tellus Magna</a></strong><br>
+									Maecenas faucibus mollis interdum.</p>
+									</td>
+									<td>
+										<div class="fuelux">
+											<div id="MySpinner" class="spinner">
+												<input type="number" class="input-mini spinner-input" maxlength="3" value="1">
+											</div>
+										</div>
+									</td>
+									<td>$350.00</td>
+									<td>$350.00</td>
+									<td><a class="close" href="#">&times;</a></td>
+								</tr>
+								<tr>
+									<td class="hidden-xs"><img src="http://placehold.it/50x50" /></td>
+									<td><p><strong><a href="shop-product.shtml">Condimentum Tellus Magna</a></strong><br>
+									Maecenas faucibus mollis interdum.</p>
+									</td>
+									<td>
+										<div class="fuelux">
+											<div id="MySpinner" class="spinner">
+												<input type="number" class="input-mini spinner-input" maxlength="3" value="1">
+											</div>
+										</div>
+									</td>
+									<td>$350.00</td>
+									<td>$350.00</td>
+									<td><a class="close" href="#">&times;</a></td>
+								</tr>
+							</tbody>
+						</table>
+						<hr>
+					</div> <!--/col-->
+				</div> <!--/row-->
+				
+				<div class="row">
+					<div class="col-md-6 col-md-6">
+						<div class="well">
+							<h3>Enter Coupon Code</h3>
+							<div class="alert alert-warning">
+								<strong>D'oh!</strong> The coupon code you've entered is invalid.
+							</div>
+							
+							<form class="form-inline" role="form">
+								<div class="form-group">
+									<label class="sr-only" for="">Email Coupon Code</label>
+									<input type="text" class="form-control" id="couponcode" placeholder="Enter Coupon Code">
+								</div>
+								<button type="submit" class="btn btn-default">Apply</button>
+							</form>
+							
+						</div>
+					</div>
+					
+					<div class="col-md-6 col-md-6">
+						<div class="well">
+							<h5>Subtotal<span class="pull-right">$700.00</span></h5>
+							<h5>Coupon Code: GHOSTBUSTIN<span class="pull-right label label-success">-20%</span></h5>
+							<h5>Calculate Shipping</h5>
+							<form class="form-inline" role="form">
+								<fieldset>
+									<div class="form-group">
+										<input type="text" class="form-control" id="shippingZip" placeholder="Zip Code">
+									</div>
+									<select class="form-control">
+										<option>Delivery Method</option>
+										<option>USPS Standard Ground</option>
+										<option>UPS Overnight</option>
+										<option>UPS 2-day</option>
+										<option>UPS Standard</option>
+									</select>
+									
+									<button type="submit" class="btn">Calculate</button>
+									<h5>Shipping<span class="pull-right">$10.00</span></h5>
+									<hr>
+									<h4>Total<span class="pull-right">$710.00</span></h4>
+									<a href="checkout.shtml" class="btn btn-block btn-primary btn-lg">Checkout</a>
+								</fieldset>
+							</form>
+						</div>
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->
+

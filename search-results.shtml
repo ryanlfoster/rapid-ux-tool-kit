@@ -1,0 +1,99 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><i class="fa fa-home"></i></a></li>
+							<li>Search Results</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Search Results</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-8">
+						<h2>123 results for 'Lorem Ipsum'</h2>
+						
+						<div class="serch-result">
+							<h3><a href="#">Justo Venenatis Ullamcorper Cras Elit</a></h3>
+							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Ipsum Sem Bibendum Malesuada Ridiculus</a></h3>
+							<p>Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Vulputate Sit Dapibus Ultricies Mattis</a></h3>
+							<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venen. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Justo Venenatis Ullamcorper Cras Elit</a></h3>
+							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Ipsum Sem Bibendum Malesuada Ridiculus</a></h3>
+							<p>Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Vulputate Sit Dapibus Ultricies Mattis</a></h3>
+							<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venen. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Justo Venenatis Ullamcorper Cras Elit</a></h3>
+							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Ipsum Sem Bibendum Malesuada Ridiculus</a></h3>
+							<p>Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis. <a href="#">Read More</a></p>
+						</div>
+						
+						<div class="serch-result">
+							<h3><a href="#">Vulputate Sit Dapibus Ultricies Mattis</a></h3>
+							<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venen. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. <a href="#">Read More</a></p>
+						</div>
+						
+						
+					</div><!--/col-->
+						
+					<div class="col-md-4">
+						<form role="form">
+							<div class="form-group">
+						  		<input type="search" class="form-control" id="search" placeholder="Search">
+						  	</div>
+						</form>
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+		</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

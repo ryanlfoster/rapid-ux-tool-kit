@@ -1,0 +1,94 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 col-xs-12 text-center">
+						<h1>The Rapid UX Toolkit</h1>
+						<p class="lead">We've built each of these kits out for a specific purpose, but you can choose one or collect them all! They all work perfectly together and can help you create a great foundation for a finished site of any size!</p>
+						<div class="row rowKits">
+							<div class="col-md-3 col-sm-6" id="Starter">
+								<i class="fa fa-truck" style="font-size:8em;"></i>
+								<h3>Starter Kit</h3>
+								<p class="lead">The basics for any site.</p>
+								
+								<div class="features">
+									<h4>Pages</h4>
+									<ul class="list-unstyled">
+										<li><a href="full-width.shtml">Full-Width Template</a></li>
+										<li><a href="404.shtml">404 Template</a></li>
+										<li><a href="search-results.shtml">Search Results Template</a></li>
+										<li><a href="faq.shtml">FAQ Template</a></li>
+										<li><a href="contact.shtml">Contact Template</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6" id="Blog">
+								<i class="fa fa-pencil-square-o" style="font-size:8em;"></i>
+								<h3>Blog Kit</h3>
+								<p class="lead">Build a better blog.</p>
+								<div class="features">
+									<h4>Pages</h4>
+									<ul class="list-unstyled">
+										<li><a href="blog-home.shtml">Blog Landing Template</a></li>
+										<li><a href="blog-category.shtml">Category Template</a></li>
+										<li><a href="blog-author.shtml">Author Template</a></li>
+										<li><a href="blog-single.shtml">Single Post Template</a></li>
+										<li><a href="blog-single-gallery.shtml">Post Gallery Template</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6" id="Shop">
+								<i class="fa fa-shopping-cart" style="font-size:8em;"></i>
+								<h3>Shop Kit</h3>
+								<p class="lead">You're shop done right.</p>
+								<div class="features">
+									<h4>Pages</h4>
+									<ul class="list-unstyled">
+										<li><a href="shop.shtml">Shop Home Template</a></li>
+										<li><a href="shop-category.shtml">Categories Template</a></li>
+										<li><a href="shop-product.shtml">Item Description</a></li>
+										<li><a href="shopping-cart.shtml">Cart Template</a></li>
+										<li><a href="checkout.shtml">Checkout Template</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6" id="User">
+								<i class="fa fa-users" style="font-size:8em;"></i>
+								<h3>Accounts Kit</h3>
+								<p class="lead">Connect with users.</p>
+								<div class="features">
+									<h4>Pages</h4>
+									<ul class="list-unstyled">
+										<li><a href="sign-up.shtml">Sign up Template</a></li>
+										<li><a href="my-account.shtml">My Account Template</a></li>
+										<li><a href="edit-profile.shtml">Edit Account Information</a></li>
+										<li><a href="billing-history.shtml">Subscription Info</a></li>
+										<li><a href="cancel-account.shtml">Cancel</a> &amp; <a href="downgrade-account.shtml">Downgrade</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						
+					</div><!--/col-->
+				</div><!--/row-->
+			</div><!--/container -->
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+		</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

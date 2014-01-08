@@ -1,0 +1,135 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><i class="fa fa-home"></i></a></li>
+							<li>Contact Us</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Contact Us</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-8">
+				
+						<h2>We want to hear from you!</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						
+						<div class="row">
+							<div class="col-md-4">
+								<address>
+									<strong>Customer Support</strong><br>
+									1234 Street Name Rd<br>
+									San Francisco, CA 94107<br>
+									<abbr title="Phone">P:</abbr> (123) 456-7890<br>
+									<abbr title="Email">E:</abbr> <a href="#">info@companyname.com</a>
+								</address>
+							</div>
+							<div class="col-md-4">
+								<address>
+									<strong>Technical Support</strong><br>
+									1234 Street Name Rd<br>
+									San Francisco, CA 94107<br>
+									<abbr title="Phone">P:</abbr> (123) 456-7890<br>
+									<abbr title="Email">E:</abbr> <a href="#">info@companyname.com</a>
+								</address>
+							</div>
+							<div class="col-md-4">
+								<address>
+									<strong>Press Contact</strong><br>
+									1234 Street Name Rd<br>
+									San Francisco, CA 94107<br>
+									<abbr title="Phone">P:</abbr> (123) 456-7890<br>
+									<abbr title="Email">E:</abbr> <a href="#">info@companyname.com</a>
+								</address>
+							</div>
+						</div>
+						
+						<form class="form-horizontal">
+							<fieldset>
+								<legend>Send us a message</legend>
+								<!-- name input-->
+								<div class="form-group">
+									<label for="inputContactname" class="col-md-2 control-label">Your Name</label>
+									<div class="col-md-10">
+										<input type="text" class="form-control" id="inputUsername" placeholder="" >
+									</div>
+								</div>
+								
+								<!-- email input-->
+								<div class="form-group">
+									<label for="inputContactemail" class="col-md-2 control-label">Your Email Address</label>
+								  	<div class="col-md-10">
+										<input type="text" class="form-control" id="inputUsername" placeholder="" >
+								  	</div>
+								</div>
+								
+								<!-- email input-->
+								<div class="form-group">
+									<label for="inputCountry" class="col-md-2 control-label">Reason For Contacting Us</label>
+									<div class="col-md-10">
+										<select class="form-control">
+											<option value="ZW">General Inquiry</option>
+											<option value="ZW">Technical Issue</option>
+											<option value="ZW">Customer Support</option>
+										</select>
+									</div>
+								</div>
+								
+								<!-- message input-->
+								<div class="form-group">
+									<label for="inputFullName" class="col-md-2 control-label">Your Message</label>
+									<div class="col-md-10">
+										<textarea class="form-control" rows="6"></textarea>
+									</div>
+								</div>
+								
+								<div class="col-md-4 pull-right">
+									<button type="submit" class="btn btn-primary btn-lg btn-block">Send</button>
+								</div>
+							</fieldset>
+						</form>
+					
+					</div>
+	
+					<div class="col-md-4 sidebar">
+						<div class="location">
+							<img class="img-responsive" src="http://placehold.it/400x400&text=map" />
+							<address>
+								<strong>Come on by</strong><br>
+								1234 Street Name Rd<br>
+								San Francisco, CA 94107<br>
+								<abbr title="Phone">P:</abbr> (123) 456-7890<br>
+								<abbr title="Email">E:</abbr> <a href="#">info@companyname.com</a>
+							</address>
+						</div>
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+		</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

@@ -1,0 +1,114 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><i class="fa fa-home"></i></a></li>
+							<li>Shop</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">	  
+						<ul class="nav nav-pills">
+							<li><h4>Categories:</h4></li>
+							<li><a href="shop-category.shtml">Category</a></li>
+							<li><a href="shop-category.shtml">Category</a></li>
+							<li><a href="shop-category.shtml">Category</a></li>
+							<li><a href="shop-category.shtml">Category</a></li>
+							<li><a href="shop-category.shtml">Category</a></li>
+							<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+								Category <span class="caret"></span>
+							</a>
+								<ul class="dropdown-menu">
+									<li><a href="shop-category.shtml">Category</a></li>
+									<li><a href="shop-category.shtml">Category</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row featured">
+					<div class="col-md-12">
+						<div id="carousel-example-generic" class="carousel slide">
+							<!-- Indicators -->
+							<ol class="carousel-indicators">
+								 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+							</ol>
+						
+							<!-- Wrapper for slides -->
+							<div class="carousel-inner">
+								<div class="item active">
+									<a href="shop-product.shtml"><img class="img-responsive" src="http://placehold.it/1200x500&text=Featured" /></a>
+								</div>
+								<div class="item">
+									<a href="shop-product.shtml"><img src="http://placehold.it/1200x500&text=Featured" /></a>
+								</div>
+								<div class="item">
+									<a href="shop-product.shtml"><img src="http://placehold.it/1200x500&text=Featured" /></a>
+								</div>
+							</div>
+						
+							<!-- Controls -->
+							<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+								<span class="icon-prev"></span>
+							</a>
+							<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+								<span class="icon-next"></span>
+							</a>
+						</div>
+					</div><!-- col-md -->
+				</div><!--/row-->
+				
+				<div class="row special-offers">
+					<div class="col-md-6" style="padding-top:40px;">
+						<img class="img-responsive" src="http://placehold.it/800x200&text=Special Offer" />
+					</div>
+					<div class="col-md-6" style="padding-top:40px;">
+						<img class="img-responsive" src="http://placehold.it/800x200&text=Special Offer" />
+					</div>
+				</div> <!-- /row  -->			
+				
+				<div class="row category-blocks">
+					<div class="col-md-3 col-sm-6" style="padding-top:40px;">
+						<a href="shop-category.shtml"><img class="img-responsive" src="http://placehold.it/400x400&text=Category" /></a>
+					</div>
+					<div class="col-md-3 col-sm-6" style="padding-top:40px;">
+						<a href="shop-category.shtml"><img class="img-responsive" src="http://placehold.it/400x400&text=Category" /></a>
+					</div>
+					<div class="col-md-3 col-sm-6" style="padding-top:40px;">
+						<a href="shop-category.shtml"><img class="img-responsive" src="http://placehold.it/400x400&text=Category" /></a>
+					</div>
+					<div class="col-md-3 col-sm-6" style="padding-top:40px;">
+						<a href="shop-category.shtml"><img class="img-responsive" src="http://placehold.it/400x400&text=Category" /></a>
+					</div>
+				</div> <!-- /row  -->
+			
+			</div><!--/container -->
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->
+

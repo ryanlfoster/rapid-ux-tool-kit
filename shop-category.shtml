@@ -1,0 +1,153 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><i class="fa fa-home"></i></a></li>
+							<li><a href="shop.shtml">Shop</a></li>
+							<li>Category</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">	  
+						<h1>Category</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="nav nav-pills">
+							<li><h4>Sub-Categories:</h4></li>
+							<li><a href="#">Sub-Category</a></li>
+							<li><a href="#">Sub-Category</a></li>
+							<li><a href="#">Sub-Category</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row products">
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+					<div class="col-lg-3 col-md-6 col-sm-6">
+						<div class="thumbnail">
+							<a href="shop-product.shtml"><img class="img-responsive"  src="http://placehold.it/400x400" /></a>
+							<div class="caption">
+								<h3><a href="shop-product.shtml">Product Name</a> $34</h3>
+								<p>Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+								<p><a href="shop-product.shtml" class="btn btn-primary">More Info</a></p>
+							</div>
+						</div>
+					</div><!-- col -->
+	
+				</div><!--/row-->
+				
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="pager">
+							<li class="previous disabled"><a href="#">&larr; Newer</a></li>
+							<li class="next"><a href="#">Older &rarr;</a></li>
+						</ul>
+					</div>
+				</div> <!-- /row  -->
+				
+				<div class="row special-offers">
+					<div class="col-md-6" style="padding-top:40px;">
+						<img class="img-responsive"  src="http://placehold.it/800x200&text=Special Offer" />
+					</div>
+					<div class="col-md-6" style="padding-top:40px;">
+						<img class="img-responsive"  src="http://placehold.it/800x200&text=Special Offer" />
+					</div>
+				</div> <!-- /row  -->			
+						
+			</div><!--/container -->
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->
+

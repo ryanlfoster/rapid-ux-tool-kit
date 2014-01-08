@@ -1,0 +1,73 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><span class="glyphicon glyphicon-home"></span></a></li>
+							<li><a href="my-account.shtml">My Account</a></li>
+							<li>Billing History</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Billing History</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<table class="table table-hover">
+							<thead>
+								<tr>
+									<th>Invoice #</th>
+									<th>Billing Date</th>
+									<th>Amount</th>
+								</tr>
+								</thead>
+								<tbody>
+								<tr>
+									<td>9823745629</td>
+									<td>1/23/12</td>
+									<td>$9.99</td>
+								</tr>
+								<tr>
+									<td>9876234793</td>
+									<td>2/23/12</td>
+									<td>$9.99</td>
+								</tr>
+								<tr>
+									<td>2984365927</td>
+									<td>3/23/12</td>
+									<td>$9.99</td>
+								</tr>
+							</tbody>
+						</table>
+						<a href="my-account.shtml">Back to My Account</a>
+				  
+				  
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

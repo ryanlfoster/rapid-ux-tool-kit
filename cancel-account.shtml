@@ -1,0 +1,92 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><span class="glyphicon glyphicon-home"></span></a></li>
+							<li><a href="my-account.shtml">My Account</a></li>
+							<li>Cancel Account</li>
+						</ul>
+					</div>
+				</div> 
+				 	
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Cancel Account</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<h3>We're so sorry to see you go!</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<h4>If you wouldn't mind, would you tell us why you're leaving?</h4>
+						
+						<form>
+							<fieldset>
+								<div class="radio">
+									<label>
+										<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+										Option one is this and that&mdash;be sure to include why it's great
+									</label>
+								</div>
+								<div class="radio">
+									<label>
+										<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+										Option one is this and that&mdash;be sure to include why it's great
+									</label>
+								</div>
+								<div class="radio">
+									<label>
+										<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+										Option one is this and that&mdash;be sure to include why it's great
+									</label>
+								</div>
+								<div class="radio">
+									<label>
+										<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+										Option one is this and that&mdash;be sure to include why it's great
+									</label>
+								</div>
+								<div class="form-group">
+									<textarea class="form-control" rows="6"></textarea>
+								</div>
+								<div class="form-group">
+									<button type="submit" class="btn btn-primary">Cancel my account</button>
+								</div>
+							</fieldset>
+						</form>
+						
+					</div><!--/col-->
+				</div><!--/row-->
+						
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Cancellation Complete</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						<h4>Come back anytime!</h4>
+						<a href="index.shtml" class="btn btn-primary">Back to Homepage</a>
+					</div>
+				</div> <!-- /row  -->
+			</div>
+		</section> <!-- #content -->
+	
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

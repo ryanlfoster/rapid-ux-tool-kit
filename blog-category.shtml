@@ -1,0 +1,154 @@
+<!--#include file="_header.html" -->
+
+<body>
+
+<!--#include file="_chrome-frame.html" -->
+
+	<div id="wrapper">
+	
+		<header id="header">
+		<!--#include file="_nav.html" -->
+		</header>
+		
+		<section id="content">
+	 
+		 	<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<ul class="breadcrumb">
+							<li><a href="index.shtml"><span class="glyphicon glyphicon-home"></span></a></li>
+							<li><a href="blog-home.shtml">Blog</a></li>
+							<li>Category Name</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Category Name</h1>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-sm-8">
+											
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<div class="row post-listing">
+							<div class="col-sm-4">
+								<img class="img-responsive"  src="http://placehold.it/300x300">
+							</div>
+							<div class="col-sm-8">
+								<h2><a href="blog-single.shtml">Aenean lacinia bibendum nulla sed nullam amet sit.</a></h2>
+								<p class="meta">by <a href="blog-author.shtml">Author Name</a><br>July 22, 2013 | 8 Comments</p>
+							 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Vivamus sagittis.</p>
+							</div>
+						</div> <!-- /post-listing -->
+						<hr>
+						
+						<ul class="pager">
+							<li class="previous disabled"><a href="#">&larr; Newer</a></li>
+							<li class="next"><a href="#">Older &rarr;</a></li>
+						</ul>
+							
+					</div> <!--/span-->
+				 
+					<div class="col-sm-4 sidebar">
+						<div class="category">
+							<h3>Categories</h3>
+							<ul class="list-unstyled">
+							    <li><a href="blog-category.shtml">Category1</a></li>
+							    <li><a href="blog-category.shtml">Category2</a></li>
+							    <li><a href="blog-category.shtml">Category3</a></li>
+							    <li><a href="blog-category.shtml">Category4</a></li>
+							</ul>
+						</div>
+						
+						<div class="archive">
+							<h3>Archive</h3>
+							<h4>2013</h4>
+							<ul class="list-unstyled">
+							    <li><a href="#">December <span class="badge">24</span></a></li>
+							    <li><a href="#">November <span class="badge">24</span></a></li>
+							    <li><a href="#">October <span class="badge">24</span></a></li>
+							    <li><a href="#">September <span class="badge">24</span></a></li>
+							</ul>
+							<h4>2012</h4>
+							<ul class="list-unstyled">
+							    <li><a href="#">December <span class="badge">24</span></a></li>
+							    <li><a href="#">November <span class="badge">24</span></a></li>
+							    <li><a href="#">October <span class="badge">24</span></a></li>
+							    <li><a href="#">September <span class="badge">24</span></a></li>
+							</ul>
+						</div>
+					</div> <!-- /sidebar -->
+				
+				</div> <!--/row-->
+			</div> <!-- /container -->
+		</section> 
+		
+		<!--#include file="_footer.html" -->
+	
+	</div>  <!-- #wrapper -->
+
+<!--#include file="_modal.html" -->
+
+<!--#include file="_htmlfooter.html" -->

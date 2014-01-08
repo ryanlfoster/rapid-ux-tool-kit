@@ -1,0 +1,26 @@
+/* GLOBAL */
+#wrapper {margin-top: 80px;}
+section#content {min-height: 400px;}
+
+.video-container { 
+   position: relative; /* keeps the aspect ratio */ 
+   padding-bottom: 45.25%; /* fine tunes the video positioning */ 
+   padding-top: 60px; overflow: hidden;
+   margin-bottom: 20px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+/* BLOG */
+.post-listing img {padding-bottom: 20px;}
+.post-listing .thumbnail, .products .thumbnail {margin-bottom: 20px;}
+.post-listing .thumbnail img {padding-bottom: 0;}
+
+
+/* PAPER TIGER UX */
+.post-listing h2 {margin-top: 0;}
+.faq-list {margin-top: 15px;}
+legend {padding-top: 30px;}
+form#password, form#subscription-info {margin-top: 50px;}
