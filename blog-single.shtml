@@ -45,7 +45,7 @@
 								<h4>Related Posts</h4>
 							</div>
 						
-							<div class="col-md-4">
+							<div class="col-sm-4">
 								<div class="thumbnail">
 									<img class="img-responsive" src="http://placehold.it/800x800" alt="">
 									<div class="caption">
@@ -53,7 +53,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-sm-4">
 								<div class="thumbnail">
 									<img class="img-responsive" src="http://placehold.it/800x800" alt="">
 									<div class="caption">
@@ -61,7 +61,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-sm-4">
 								<div class="thumbnail">
 									<img class="img-responsive" src="http://placehold.it/800x800" alt="">
 									<div class="caption">
